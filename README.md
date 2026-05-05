@@ -81,4 +81,4 @@ This project is for educational purposes.
 ## 👨‍💻 Author
 
 Your Name  
-[GitHub Profile](https://github.com/your-username)
+Satyam Pathrikar
